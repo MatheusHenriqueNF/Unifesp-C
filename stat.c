@@ -3,7 +3,7 @@
  * RA: 168.680                                                             *
  * Ex 1 - Estatisticas                                                     *
  * Professor: Paulo Paiva                                                  *
- * Data: 01/09/2023                                                        *
+ * Data: 04/09/2023                                                        *
  *                                                                         *
  *                                                                         *
  *                                                                         *
