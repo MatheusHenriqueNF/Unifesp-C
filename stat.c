@@ -68,7 +68,7 @@ float calcularDesvioPadrao(float num[], int n) {
         somaDosQuadrados += diferenca * diferenca;
     }
 
-    float variancia = somaDosQuadrados / n;
+    float variancia = somaDosQuadrados / n-1;
     float desvioPadrao = sqrt(variancia);
     return desvioPadrao;
 }
